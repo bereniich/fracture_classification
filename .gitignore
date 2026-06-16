@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.venv/
+
+# Dataset (veliki fajlovi)
+dataset/
+*.zip
+*.tar
+*.gz
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Kaggle cache
+.kaggle/
+	
+
