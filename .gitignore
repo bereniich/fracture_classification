@@ -2,7 +2,7 @@
 venv/
 .venv/
 
-# Dataset (veliki fajlovi)
+# Dataset 
 dataset/
 *.zip
 *.tar
